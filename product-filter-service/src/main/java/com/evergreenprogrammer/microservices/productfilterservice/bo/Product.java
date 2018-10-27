@@ -1,4 +1,4 @@
-package com.evergreenprogrammers.microservices.productfilterservice.bo;
+package com.evergreenprogrammer.microservices.productfilterservice.bo;
 
 public class Product {
 

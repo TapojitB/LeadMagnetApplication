@@ -1,4 +1,4 @@
-package com.evergreenprogrammers.microservices.productfilterservice;
+package com.evergreenprogrammer.microservices.productfilterservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

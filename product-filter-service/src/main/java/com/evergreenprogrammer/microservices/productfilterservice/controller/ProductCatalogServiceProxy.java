@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.evergreenprogrammers.microservices.productfilterservice.controller;
+package com.evergreenprogrammer.microservices.productfilterservice.controller;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.ribbon.RibbonClient;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 
-import com.evergreenprogrammers.microservices.productfilterservice.bo.Product;
+import com.evergreenprogrammer.microservices.productfilterservice.bo.Product;
 
 /**
  * @author TapojitBhattacharya

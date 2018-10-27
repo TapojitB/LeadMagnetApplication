@@ -1,4 +1,4 @@
-package com.evergreenprogrammers.microservices.productfilterservice;
+package com.evergreenprogrammer.microservices.productfilterservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,7 +6,7 @@ import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 
-import com.evergreenprogrammers.microservices.productfilterservice.controller.ProductCatalogServiceProxy;
+import com.evergreenprogrammer.microservices.productfilterservice.controller.ProductCatalogServiceProxy;
 
 @SpringBootApplication
 @EnableDiscoveryClient(autoRegister = true)
