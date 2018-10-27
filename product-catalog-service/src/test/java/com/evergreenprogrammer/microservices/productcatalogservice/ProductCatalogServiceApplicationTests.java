@@ -1,4 +1,4 @@
-package com.evergreenprogrammers.microservices.productcatalogservice;
+package com.evergreenprogrammer.microservices.productcatalogservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.evergreenprogrammers.microservices.productcatalogservice.domain;
+package com.evergreenprogrammer.microservices.productcatalogservice.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

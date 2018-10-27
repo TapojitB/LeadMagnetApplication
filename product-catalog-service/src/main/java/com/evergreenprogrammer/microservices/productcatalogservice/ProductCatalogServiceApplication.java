@@ -1,4 +1,4 @@
-package com.evergreenprogrammers.microservices.productcatalogservice;
+package com.evergreenprogrammer.microservices.productcatalogservice;
  
 import java.util.HashSet;
 import java.util.Set;
@@ -10,9 +10,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.core.env.Environment;
- 
-import com.evergreenprogrammers.microservices.productcatalogservice.domain.Product;
-import com.evergreenprogrammers.microservices.productcatalogservice.repository.ProductRepository;
+
+import com.evergreenprogrammer.microservices.productcatalogservice.domain.Product;
+import com.evergreenprogrammer.microservices.productcatalogservice.repository.ProductRepository;
  
 @SpringBootApplication
 @EnableDiscoveryClient(autoRegister=true)
