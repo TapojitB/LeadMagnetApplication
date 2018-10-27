@@ -1,4 +1,4 @@
-package com.evergreenprogrammers.microservices.netflixeurekanamingserver;
+package com.evergreenprogrammer.microservices.netflixeurekanamingserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
